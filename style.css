@@ -164,3 +164,40 @@ a{
     font-weight: bolder;
 
 }
+#footer{
+    width: 100%;
+    display:flex;
+    background-color: black;
+}
+#sec1{
+    color: white;
+    width:290px;
+    /* border-color: aqua; */
+    /* border-width: 1%;
+    border-style: dashed; */
+    margin-top: 3px;
+
+}
+#sec2{
+    color: white;
+    width:400px;
+    /* border-color: aqua; */
+    /* border-width: 1%;
+    border-style: dashed; */
+}
+#sec3{
+    color: white;
+    width:350px;
+    /* border-color: aqua; */
+    /* border-width: 1%;
+    border-style: dashed; */
+}
+#sec4{
+    color: white;
+    width:350px;
+    /* border-color: aqua; */
+    /* border-width: 1%;
+    border-style: dashed; */
+    
+    
+}
